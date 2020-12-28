@@ -29,13 +29,16 @@ button{
     padding-right: 30px;
     padding-top: 10px;
     padding-bottom: 10px;
-    border-radius: 20px;
     font-size: 20px;
     background: transparent;
-    border-color: #311b05;
+    border-color: #2e1b15;
+    border-radius: 20px;
+    border: solid;
+    border-width: 2px;
 }
 
 button:hover{
-    background-color: #311b05;
+    border-color: #2e1b15;
+    background-color: #2e1b15;
     color: #918263;
 }
