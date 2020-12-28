@@ -2,6 +2,7 @@ body{
     background-image: url(images/pexels-maria-orlova-4916143.jpg);
     background-size: cover;
     background-repeat: no-repeat;
+    overflow: hidden;
 }
 
 p{
@@ -29,14 +30,19 @@ button{
     padding-top: 10px;
     padding-bottom: 10px;
     font-size: 20px;
-    background: transparent;
+    background-color: #2e1b15;
     border-color: #2e1b15;
+    color: #918263;
     border-radius: 20px;
     border: solid;
     border-width: 2px;
 }
 
 button:hover{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     border-color: #2e1b15;
     background-color: #2e1b15;
     color: #918263;
