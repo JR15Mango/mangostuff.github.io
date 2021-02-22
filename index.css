@@ -1,0 +1,55 @@
+body{
+    background-image: url(images/pexels-maria-orlova-4916143.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+p{
+
+    border-width: 5px;
+    margin: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+    width: 50%;
+    text-align: center;
+}
+
+img{
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+
+button{
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+    background-color: #2e1b15;
+    border-color: #2e1b15;
+    color: #918263;
+    border-radius: 20px;
+    border: solid;
+    border-width: 2px;
+}
+
+button:hover{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-color: #2e1b15;
+    background-color: #2e1b15;
+    color: #918263;
+}
+
+.footer{
+    text-align: center;
+    position: relative;
+    background-color: transparent;
+    color: rgb(221, 190, 132);
+}
