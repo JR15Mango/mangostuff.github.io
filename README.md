@@ -1,4 +1,7 @@
 # mangostuff.github.io
 
-for more info:
-https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/getting-started-with-github-pages
+Default Markdown.
+
+### Page Will Be Up Soon.
+
+*Sorry for the inconvenience.*
