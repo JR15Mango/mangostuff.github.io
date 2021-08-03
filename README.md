@@ -2,6 +2,5 @@
 
 Default Markdown.
 
-### Page Will Be Up Soon.
+### This is a personal page for my instagram and other social media.
 
-*Sorry for the inconvenience.*
