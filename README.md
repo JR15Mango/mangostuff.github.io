@@ -1,4 +1,4 @@
-# mangostuff.github.io
+# links.github.io
 
 Default Markdown.
 
